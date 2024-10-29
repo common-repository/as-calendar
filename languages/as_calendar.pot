@@ -1,0 +1,137 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AS Calendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-27 10:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: as_calendar"
+
+#. Description of the plugin
+msgid "A calender Plugin for Wordpres."
+msgstr ""
+
+#: as_calendar.php:31
+msgid "Add New"
+msgstr ""
+
+#: as_calendar.php:32
+msgid "Add New Calendar"
+msgstr ""
+
+#: as_calendar.php:808
+msgid "Add Your Schedule Data"
+msgstr ""
+
+#. Author of the plugin
+msgid "Akshar Soft Solutions"
+msgstr ""
+
+#. Name of the plugin
+msgid "AS Calendar"
+msgstr ""
+
+#: as_calendar.php:839
+msgid "Button Label"
+msgstr ""
+
+#: as_calendar.php:30
+msgid "Calendar"
+msgstr ""
+
+#: as_calendar.php:843
+msgid "Calendar Options"
+msgstr ""
+
+#: as_calendar.php:29
+msgid "Calendars"
+msgstr ""
+
+#: as_calendar.php:873
+msgid "Choose Display Style"
+msgstr ""
+
+#: as_calendar.php:860
+msgid "Choose TimeZone"
+msgstr ""
+
+#: as_calendar.php:876
+msgid "Default"
+msgstr ""
+
+#: as_calendar.php:815
+msgid "Description"
+msgstr ""
+
+#: as_calendar.php:33
+msgid "Edit Calendar"
+msgstr ""
+
+#: as_calendar.php:823
+msgid "End Date"
+msgstr ""
+
+#: as_calendar.php:831
+msgid "End Time"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://aksharsoftsolutions.com/"
+msgstr ""
+
+#: as_calendar.php:883
+msgid "iCal File Name"
+msgstr ""
+
+#: as_calendar.php:835
+msgid "Location"
+msgstr ""
+
+#: as_calendar.php:877
+msgid "Modal"
+msgstr ""
+
+#: as_calendar.php:811
+msgid "Name"
+msgstr ""
+
+#: as_calendar.php:34
+msgid "New Calendar"
+msgstr ""
+
+#: as_calendar.php:43
+msgid "organize and manage Calendars"
+msgstr ""
+
+#: as_calendar.php:878
+msgid "Overlay"
+msgstr ""
+
+#: as_calendar.php:37
+msgid "Search Calendars"
+msgstr ""
+
+#: as_calendar.php:819
+msgid "Start Date"
+msgstr ""
+
+#: as_calendar.php:827
+msgid "Start Time"
+msgstr ""
+
+#: as_calendar.php:35
+msgid "View Calendar"
+msgstr ""
+
+#: as_calendar.php:36
+msgid "View Calendars"
+msgstr ""

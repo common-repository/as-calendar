@@ -1,0 +1,44 @@
+.as-calendar-form-data{
+    margin: 15px 10px;
+}
+.as-calendar-data-form .as-calendar-title h2{
+    font-size: 18px !important;
+    font-weight: 700;
+}
+.as-calendar-form-label{
+    float: left;
+    width: 12%;
+}
+
+.as-calendar-form-input select,
+.as-calendar-form-data .as-calendar-form-input input{
+    padding: 5px 10px;
+    width: 30%;
+}
+.as-calendar-form-data .as-calendar-form-input input[type="checkbox"]{
+    width : auto;
+}
+
+.as-calendar-options-data {
+    display: table-caption;
+    width: max-content;
+}
+
+.as-calendar-form-input input[type="text"].as-calendar-options-extra-txt{
+    padding: 3px 5px;
+    margin-bottom: 8px;
+    min-width: 60%;
+}
+.as-calendar-form-checkboxes {
+    display: table;
+}
+.as-calendar-options-data .as-calendar-options-data-checkbox {
+    min-width: max-content;
+}
+.as-calendar-options-data {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
